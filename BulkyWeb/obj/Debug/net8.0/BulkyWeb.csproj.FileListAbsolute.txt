@@ -134,3 +134,9 @@
 /home/dhiraj/projects/dotnet/mvc/BulkyWeb/obj/Debug/net8.0/BulkyWeb.pdb
 /home/dhiraj/projects/dotnet/mvc/BulkyWeb/obj/Debug/net8.0/BulkyWeb.genruntimeconfig.cache
 /home/dhiraj/projects/dotnet/mvc/BulkyWeb/obj/Debug/net8.0/ref/BulkyWeb.dll
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.DataAccess.dll
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.Models.dll
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.Utility.dll
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.DataAccess.pdb
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.Models.pdb
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.Utility.pdb

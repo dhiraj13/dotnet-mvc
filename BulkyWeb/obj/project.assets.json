@@ -59,9 +59,6 @@
           }
         }
       },
-      "jQuery/1.6.3": {
-        "type": "package"
-      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1506,10 +1503,40 @@
           }
         }
       },
-      "toastr/2.1.1": {
-        "type": "package",
+      "Bulky.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "jQuery": "1.6.3"
+          "Bulky.Models": "1.0.0",
+          "Bulky.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
+        },
+        "compile": {
+          "bin/placeholder/Bulky.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.DataAccess.dll": {}
+        }
+      },
+      "Bulky.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bulky.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Models.dll": {}
+        }
+      },
+      "Bulky.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bulky.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Utility.dll": {}
         }
       }
     }
@@ -1573,24 +1600,6 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
-      ]
-    },
-    "jQuery/1.6.3": {
-      "sha512": "vb0p7+eRmc2evBCT9W7PCUupqWiDMi9/ofBHN99LraRzLY5jPKMeFzFYBoMgwA8TiwRoFDke5hiDDLsvae7qMg==",
-      "type": "package",
-      "path": "jquery/1.6.3",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Content/Scripts/jquery-1.6.3-vsdoc.js",
-        "Content/Scripts/jquery-1.6.3.js",
-        "Content/Scripts/jquery-1.6.3.min.js",
-        "Tools/install.ps1",
-        "Tools/jquery-1.6.3-vsdoc-para.js",
-        "Tools/uninstall.ps1",
-        "jquery.1.6.3.nupkg.sha512",
-        "jquery.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -4124,30 +4133,30 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "toastr/2.1.1": {
-      "sha512": "h/688XvzYk1xVYn213ryU+HCElE4n/drYzAHJkAi9LsSUPS3EbI6wGlvCglBUt7i4h5iESgAVarYaigjQmVpqg==",
-      "type": "package",
-      "path": "toastr/2.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "content/content/toastr.css",
-        "content/content/toastr.less",
-        "content/content/toastr.min.css",
-        "content/content/toastr.scss",
-        "content/scripts/toastr.js",
-        "content/scripts/toastr.min.js",
-        "toastr.2.1.1.nupkg.sha512",
-        "toastr.nuspec"
-      ]
+    "Bulky.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.DataAccess/Bulky.DataAccess.csproj",
+      "msbuildProject": "../Bulky.DataAccess/Bulky.DataAccess.csproj"
+    },
+    "Bulky.Models/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Models/Bulky.Models.csproj",
+      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+    },
+    "Bulky.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Utility/Bulky.Utility.csproj",
+      "msbuildProject": "../Bulky.Utility/Bulky.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Bulky.DataAccess >= 1.0.0",
+      "Bulky.Models >= 1.0.0",
+      "Bulky.Utility >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
-      "toastr >= 2.1.1"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.6"
     ]
   },
   "packageFolders": {
@@ -4174,7 +4183,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/dhiraj/projects/dotnet/mvc/Bulky.DataAccess/Bulky.DataAccess.csproj": {
+              "projectPath": "/home/dhiraj/projects/dotnet/mvc/Bulky.DataAccess/Bulky.DataAccess.csproj"
+            },
+            "/home/dhiraj/projects/dotnet/mvc/Bulky.Models/Bulky.Models.csproj": {
+              "projectPath": "/home/dhiraj/projects/dotnet/mvc/Bulky.Models/Bulky.Models.csproj"
+            },
+            "/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/Bulky.Utility.csproj": {
+              "projectPath": "/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/Bulky.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4205,10 +4224,6 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.6, )"
-          },
-          "toastr": {
-            "target": "Package",
-            "version": "[2.1.1, )"
           }
         },
         "imports": [

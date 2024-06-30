@@ -1,0 +1,11 @@
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.deps.json
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.dll
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/bin/Debug/net8.0/Bulky.Utility.pdb
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfoInputs.cache
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.AssemblyInfo.cs
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.csproj.CoreCompileInputs.cache
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.dll
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/refint/Bulky.Utility.dll
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/Bulky.Utility.pdb
+/home/dhiraj/projects/dotnet/mvc/Bulky.Utility/obj/Debug/net8.0/ref/Bulky.Utility.dll
