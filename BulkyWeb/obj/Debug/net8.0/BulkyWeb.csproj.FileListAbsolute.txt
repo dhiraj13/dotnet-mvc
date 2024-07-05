@@ -140,3 +140,7 @@
 /home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.DataAccess.pdb
 /home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.Models.pdb
 /home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Bulky.Utility.pdb
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/obj/Debug/net8.0/BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/dhiraj/projects/dotnet/mvc/BulkyWeb/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll

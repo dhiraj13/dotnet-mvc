@@ -13,6 +13,42 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/3463432b-6413-4b3a-84ae-4fb060b8f412.jpg",
+      "PackagePath": "staticwebassets/images/product/3463432b-6413-4b3a-84ae-4fb060b8f412.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/5097aca1-31c4-4b8e-8a2d-adde8e9657c8.jpg",
+      "PackagePath": "staticwebassets/images/product/5097aca1-31c4-4b8e-8a2d-adde8e9657c8.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/5456cd4e-60d9-45da-b02c-f3ed0a74d065.jpg",
+      "PackagePath": "staticwebassets/images/product/5456cd4e-60d9-45da-b02c-f3ed0a74d065.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/641760c2-af97-4332-85c9-0788d9e35145.jpg",
+      "PackagePath": "staticwebassets/images/product/641760c2-af97-4332-85c9-0788d9e35145.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/7172ac2b-8928-4935-ad66-1ae936d68a14.jpg",
+      "PackagePath": "staticwebassets/images/product/7172ac2b-8928-4935-ad66-1ae936d68a14.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/b5b392bb-68d3-4808-80dd-31a3c4c13016.jpg",
+      "PackagePath": "staticwebassets/images/product/b5b392bb-68d3-4808-80dd-31a3c4c13016.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/b98fd3ba-95ed-43a4-a656-40eefe600db8.jpg",
+      "PackagePath": "staticwebassets/images/product/b98fd3ba-95ed-43a4-a656-40eefe600db8.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/images/product/f0cadd55-5547-45d9-be62-461e06859ca4.jpg",
+      "PackagePath": "staticwebassets/images/product/f0cadd55-5547-45d9-be62-461e06859ca4.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
       "Id": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
