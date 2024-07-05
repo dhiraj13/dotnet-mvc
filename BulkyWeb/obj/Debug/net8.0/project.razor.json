@@ -19389,6 +19389,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/Areas/Customer/Views/Home/Details.cshtml",
+      "TargetPath": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/dhiraj/projects/dotnet/mvc/BulkyWeb/Areas/Customer/Views/Home/Index.cshtml",
       "TargetPath": "Areas\\Customer\\Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
